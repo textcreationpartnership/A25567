@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to several reasons humbly offered to the consideration of both Houses of Parliament for the taking of the prohibition, and giving leave to the importation of Irish cattel</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25567</idno>
+            <idno type="STC">Wing A3378</idno>
+            <idno type="STC">ESTC R25245</idno>
+            <idno type="EEBO-CITATION">08801653</idno>
+            <idno type="OCLC">ocm 08801653</idno>
+            <idno type="VID">41893</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41893)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1273:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to several reasons humbly offered to the consideration of both Houses of Parliament for the taking of the prohibition, and giving leave to the importation of Irish cattel</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cattle trade --  Great Britain.</term>
+               <term>Great Britain --  Commercial policy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41893:1"/>
+            <pb facs="tcp:41893:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO SEVERAL REASONS Humbly Offered to the Conſideration of Both Houſes of Parliament, for the Taking off the Prohibition, and giving Leave to the Importation of IRISH CATTEL.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J.B.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:41893:2" rendition="simple:additions"/>
+            <head>An Anſwer to Several Reaſons, Humbly OF red to both Houſes of Parliament, for ta<g ref="char:EOLhyphen"/>king off the Prohibition of <hi>Iriſh</hi> Cattle</head>
+            <opener>Proving,</opener>
+            <p n="1">1. THat the Prohibition of Iriſh Cattle was not the cauſe of the Loſs of Trade with <hi>Ireland.</hi>
+            </p>
+            <p n="2">2. That the granting a free Importation of Cattle from <hi>Ireland</hi> will not in the leaſt encreaſe the Trade to <hi>Ireland.</hi>
+            </p>
+            <p n="3">3. That the Prohibition of Iriſh Cattle hath not prevented the Coming of them over.</p>
+            <p n="4">4. The Laying an ſmpoſition upon the Iriſh Cattle, with ſeveral other Commodities, as Beef, Mutton, Pork, Bacon, Tongues, Butter, Cheeſe, Tallow and Fiſh, will prove a far greater Advan<g ref="char:EOLhyphen"/>tage both to the King and Kingdom.</p>
+            <p>Had the Author to the ſaid Paper really Conſidered the nature of the Kingdom of <hi>Ireland,</hi> what it was before the Rebellion, and the ſeveral Changes ſince, it might eaſily have convinced him, that it was not the Prohibition of Iriſh Cattle that wrought thoſe effects he pretended: For <hi>Ireland</hi> before the Rebellion was moſt planted with Native Iriſh, and the Lands in their Poſſeſſion, a people ſo wedded to their ancient Cuſtomes, that nothing was more hateful to them then the alteration of any of them, or to make any other Improvements then what they were accuſtomed to.</p>
+            <p>But thoſe Wars making ſo great Deſolation, and Deſtruction amongſt them, and moſt of their Lands being ſince planted and peo<g ref="char:EOLhyphen"/>pled by Engliſh and Scotch, it is now a quite different thing.</p>
+            <p>The Engliſh when they went over to Inhabit, after the Wars were ended, bought up and carried over with them the Largeſt and
+<pb n="2" facs="tcp:41893:2"/>beſt Cattle, Horſes and ſheep, that <hi>England</hi> could produce: And from thence have encreaſed ſuch a Breed of Cattle, Horſes and ſheep as will compare with the beſt in <hi>England,</hi> both for large<g ref="char:EOLhyphen"/>neſs and fatneſs, as alſo with wool. Butter and Cheeſe that the Engliſh there make, not being inferiour to what is made in <hi>England</hi> for goodneſs.</p>
+            <p n="2">2. The Parliament of <hi>Ireland</hi> did, and the Engliſh do give all the encouragement they can for the ſetting up of Manufactures, and to all Artificers to come and live among them, which are the true Reaſons of the loſs and decay of Trade the Engliſh formerly had to <hi>Ireland.</hi>
+            </p>
+            <p>But for further Anſwer to the ſaid Paper, and to their Firſt Argument.</p>
+            <div n="1" type="part">
+               <head>
+                  <hi>1.</hi> The Prohibition hath proved prejudiciall to his Ma<g ref="char:EOLhyphen"/>jeſties Cuſtoms.</head>
+               <p n="1">1. The Cuſtom of Cattle Imported out of <hi>Ireland</hi> being ve<g ref="char:EOLhyphen"/>ry little, and the great charge in the looking after their com<g ref="char:EOLhyphen"/>ing in, and Collecting the Duty, did amount to near the Mo<g ref="char:EOLhyphen"/>ney, if not more then what the Cuſtome came to for Foraign goods that are Imported directly for <hi>Ireland,</hi> the Merchants of <hi>Ireland</hi> being able to fell them cheaper by 20 per cent. then to bring them into <hi>England,</hi> and pay Cuſtoms here, and then carry them to <hi>Ireland.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>2.</hi> It hath greatly prejudiced moſt of the Land-Owners in Eng<g ref="char:EOLhyphen"/>land, (there not being Land in England for Breeding) to raiſe a ſtock for feeding, to ſupply the Nation, and ſo have tranſ<g ref="char:EOLhyphen"/>ferred moſt of the Victualling for home Conſumption, Foreign Trade, and Navall Proviſion out of England into Ireland.</head>
+               <p n="1">1. For anſwer, This is ſo great an errour, that ever ſince the Laws were made, there hath been no want of proviſions in <hi>England,</hi> and that at reaſonable prizes, not only in times of peace, but in the times of War, his Majeſties Fleets were well ſupplied without the going to <hi>Ireland</hi> for any.</p>
+               <p n="2">2. No Merchants will ſend their Veſſels for <hi>Ireland</hi> for Vi<g ref="char:EOLhyphen"/>ctualling their Veſſels, although their Proviſion are very much
+<pb n="3" facs="tcp:41893:3"/>cheaper: Their loſs of time, (beſides the hazards of the Seas, their Sea-men being in conſtant pay, will be treble the loſs of what they ſhall ſave by their buying their Proviſion.</p>
+               <p n="3">3. How is it poſſible that Breeding Land-Owners can be loſers, when it is alledged they ſell their lean Cattle far dearer than formerly; and for the Feeding-Lands they cannot be loſers by them, for although <hi>Scotland</hi> daily bring in lean Cattle, yet <hi>Ireland</hi> will fill the Markets with fat Cattle, eſpe<g ref="char:EOLhyphen"/>cially ſheep, and never trouble the Feeding Lands with them, they being fed fit for any Market.</p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>3.</hi> This Prohibition is deſtructive to Navigation.</head>
+               <p n="1">1. This is as great an Errour, for the Iriſh have Ships anow of their own to Tranſport their Cattle.</p>
+               <p n="2">2. Thoſe many Ships that carry Coals for <hi>Ireland,</hi> and do return only in their Ballaſt, will bring over more Cattle then <hi>Ireland</hi> can ſpare.</p>
+            </div>
+            <div n="4" type="part">
+               <head>
+                  <hi>4.</hi> The <hi>Dutch</hi> have been ſupplyed from <hi>Ireland.</hi>
+               </head>
+               <p>It is true, and ſo hath <hi>France, Spain, Portugal,</hi> and the <hi>Straits;</hi> which cannot be prevented; there being ſo many Merchants not only Engliſh but other Nations that have their Factors reſiding in <hi>Ireland,</hi> and all the Ports well-ſtored with Shipping, that they do not only ſupply all thoſe parts with proviſion, but make their Returns with thoſe Commodities the Kingdom can Vend, and the overplus is made in Money.</p>
+            </div>
+            <div n="5" type="part">
+               <head>
+                  <hi>5.</hi> The Iriſh took no Money out of <hi>England.</hi>
+               </head>
+               <p>This alſo is very true, but now much better; for they are forced to bring over their Money to pay their Rents to their Landlords that live in <hi>England,</hi> which are many; but for car<g ref="char:EOLhyphen"/>rying over Goods, they care not, becauſe they can be ſupplied at far cheaper Rates.</p>
+            </div>
+            <div n="6" type="part">
+               <head>
+                  <hi>6.</hi> For the price of Beef in <hi>Ireland.</hi>
+               </head>
+               <p>That is a great miſtake; For the Beef they Barrell up for Sea is not Sold under 9. or 10 <hi>s.</hi> a C. or more, and ſhould the
+<pb n="4" facs="tcp:41893:3"/>
+                  <hi>Engliſh</hi> be brought to ſell at the ſame rates, the Land-Owners, muſt of neceſſity abate above one half of their Rents, which will not be well pleaſing to the Gentry of <hi>England.</hi>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <head>
+                  <hi>7.</hi> For the Leſſening their breed of Cattle.</head>
+               <p n="1">1. They do not leſſen their Breed of Cattle although they do encreaſe in their breed of ſheep, for there is more Land in <hi>Ireland</hi> than will breed for more than is yet done, had they but encou<g ref="char:EOLhyphen"/>ragement to tranſport for <hi>England</hi> what they cannot Vend in o<g ref="char:EOLhyphen"/>ther parts of the world.</p>
+               <p n="2">2. For their ſending their Wool for <hi>England,</hi> they do what in them lies to prevent; The Parliament of <hi>Ireland</hi> having laid a Cu<g ref="char:EOLhyphen"/>ſtom upon Wool that ſhall be ſent for <hi>England,</hi> of near 30 <hi>per cent.</hi>
+               </p>
+               <p n="3">3. They have alſo laid a great Cuſtom upon all Cloth, Stuffs, Stockins, and Hats that ſhall be Imported out of <hi>England.</hi>
+               </p>
+               <p n="4">4. To Encourage the making of thoſe Manufactures in <hi>Ireland,</hi> they did lay a very ſmall Cuſtom upon all thoſe Manufactures that ſhould be made in <hi>Ireland,</hi> and be Exported into any part of the world, which hath produced that effect, that they do not now only ſupply themſelves with all thoſe commodities, but in ſhort time will be able to ſupply <hi>England</hi> with conſiderable quantities. And for ſending their Wool to other parts of the world, it is con<g ref="char:EOLhyphen"/>trary to the Laws, and if they do, it is by ſtealth.</p>
+               <p n="5">5. For the Cheapneſs of Proviſions in <hi>Ireland:</hi> They are able to work cheaper then in <hi>England,</hi> and ſo can underſell them in thoſe ſeverall Commodities: But how can it be prevented? For it is generally obſerved, that in all thoſe Manufactures in <hi>England,</hi> when Proviſion is at the deareſt then the Markets are beſt ſup<g ref="char:EOLhyphen"/>plied and cheapeſt. The Laws of <hi>England</hi> having ſo well provided for the poor, that they will not at any time lay up for ſickneſs or old age, expecting when that comes, that the Pariſh is bound to provide for them; and when proviſion is very cheap, they will rather play half their time, then lay up a ſtock before-hand.</p>
+               <p n="6">6. If it be the Authors deſigne to have all ſorts of proviſions as cheap in <hi>England</hi> as in <hi>Ireland,</hi> he ſhould have done well to have propoſed a way to have raiſed the Lands of <hi>Ireland</hi> to the value
+<pb n="5" facs="tcp:41893:4"/>of the Lands in <hi>England;</hi> if not, then the Gentry of <hi>England</hi> muſt fall the Rents of their Land to the ſame rates they are Let in <hi>Ireland,</hi> which they would certainly be very unwilling to do, neither can it be advantagious or good for the Kingdom in generall.</p>
+            </div>
+            <div n="8" type="part">
+               <head>
+                  <hi>8.</hi> This Prohibition hath put <hi>England</hi> out of a capacity of Tra<g ref="char:EOLhyphen"/>ding to <hi>Ireland</hi> by raiſing the Price of the Exchange of Money. <hi>2.</hi> By undoing many Shop keepers, who want Chapmen for their Old faſhion-Goods, and Wares.</head>
+               <p n="1">1. For the Exchange of Money, It is true, it was the laſt War at 16. or 18. <hi>per cent.</hi> by reaſon of the great hazard of bringing it o<g ref="char:EOLhyphen"/>ver, but ever ſince it is at 7 <hi>l.</hi> or <hi>8. per cent.</hi> which is no more then equall with the Value of Money in <hi>Ireland:</hi> For when gold is here at 21<hi>s.</hi>-6<hi>d.</hi> it paſſes currant in all payments at 23 <hi>s.</hi> there: and the ſame difference is between Engliſh money, and the money that is currant in <hi>Ireland;</hi> for 20 <hi>s.</hi> in Engliſh ſilver paſſes there for 21 <hi>s.</hi> and 8 <hi>d.</hi>
+               </p>
+               <p n="2">2. For the Shop kee pers ſelling their old-faſhoned Wares, they muſt look another Market, for they are not only grown wealthy in <hi>Ireland,</hi> but ſo gentile alſo, that the neweſt faſhions that <hi>England</hi> can ſupply them with, will not pleaſe them: nothing leſs then the <hi>A la mode of France</hi> will give content.</p>
+            </div>
+            <div n="9" type="part">
+               <head>
+                  <hi>9.</hi> This Prohibition hath put them upon Induſtry, and taking of Fiſh in <hi>Ireland,</hi> which will be fatal to <hi>England.</hi>
+               </head>
+               <p n="1">1. That they are induſtrious and fallen upon the taking of Fiſh, is not to be denied, but that the Prohibiting the Iriſh Cattle, is the cauſe, is the moſt irrational argument that could be invented.</p>
+               <p n="2">2. The true Reaſons are, the Merchants not only of <hi>Ireland,</hi> but the moſt conſiderable Merchants of <hi>England,</hi> have ſent over their Factors, into the Ports of <hi>Ireland,</hi> and do provide them all things neceſſary for the taking of Fiſh, as alſo with Salt to Cure them, and Cask to put them up in, with ready money for all they take, which certainly will make them induſtrious, or nothing that can be invented will do.</p>
+               <pb n="6" facs="tcp:41893:4"/>
+               <p>BY what hath been offer'd, it is evident, that as the Prohibition of Iriſh Catte hath not been the Occaſion of the Loſs of Trade with <hi>Ireland,</hi> ſo it may as eaſily be proved, that the Prohibition of Iriſh Cattle hath not anſwered the Expectation of the Parlia<g ref="char:EOLhyphen"/>ment; for although the ſeveral ſtatutes have laid very great penal<g ref="char:EOLhyphen"/>ties on thoſe that ſhall break the ſame, yet there are many whoſe principles are for private gain before any publique good, and who contrive all ways poſſible to evade the ſaid Laws, and run the ha<g ref="char:EOLhyphen"/>zard of ſuffering the penalties, having ſo great advantage if they can eſcape them, as to be gainers at leaſt 60 <hi>per cent.</hi> of all Cattle they can Land, and full <hi>C. per C.</hi> of all Sheep: I ſhall therefore mention ſome of thoſe ways by which theſe men do evade the ſaid Act, and have been the great Occaſion Fat Cattle have not anſwe<g ref="char:EOLhyphen"/>red the price of Lean, by which means the Feeding-Lands have been ſo great ſufferers.</p>
+               <p n="1">1. By Landing the Fat Beaſts from <hi>Ireland</hi> at the <hi>Iſle of Man,</hi> and then Shipping them over for <hi>England,</hi> there being ſo many Ports, and at that diſtance one from the other, that no account can be taken of what quantity comes from thence.</p>
+               <p n="2">2. By agreeing with the Church-wardens of ſeveral Pariſhes, which many times ſhare with them in the Profits.</p>
+               <p n="3">3. The Engliſh Coaſt lying ſo advantagiouſly for their deſignes, they hire ſeveral Lordſhips, and other Grounds that lie near the Sea, that ſo upon the Ebb of the Tides, they do throw their Cattle into the Sea, near half a League, oftentimes more; The Cattle ſwimming to Land, have thoſe to take them up as Strays, and drive them upon thoſe Grounds, and it cannot be proved they came from <hi>Ireland,</hi> the Cattle being of <hi>Engliſh</hi> breed, not being able to be diſtinguiſhed one from another: The like way they have for the Importation of Sheep.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:41893:5"/>
+               <head>It is therefore further humbly Propoſed,</head>
+               <p n="1">1. That a Conſiderable Duty or Impoſition may be laid upon all ſorts of Cattle, together withall ſorts of Fleſh, and Fiſh, Butter, Cheeſe, and Tallow, and other Commodities Imported from <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> which will prove advantagious both to the Kings Majeſty, by Receiving that, (which others who contrive and practice the breach of the Laws) do gain.</p>
+               <p n="2">2. Several men will be Employed to be continually Watch<g ref="char:EOLhyphen"/>ing of the Coaſts, for Collecting the Duty.</p>
+               <p n="3">3. By this means the Rents of Lands will be kept up in <hi>England;</hi> for although the Lands in <hi>Ireland</hi> be very much cheaper, yet the Duty laid, will put the Engliſh Tenant in a Capacity at all Mar<g ref="char:EOLhyphen"/>kets to ſell their Cattle at equall prizes with thoſe that ſhall be im<g ref="char:EOLhyphen"/>ported, whereas now what is Imported muſt be ſold firſt, be<g ref="char:EOLhyphen"/>cauſe the Engliſh can no way be able to ſell at the price the Iriſh can, and in all Markets are great Gainers, when the Engliſh are Loſers.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41893:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
